@@ -1,4 +1,4 @@
-[![Header](https://github.com/Coffeinchik21/coffeinchik21/blob/main/assets/MyName.png)]()
+[![Header]()]()
 
 About me
 
