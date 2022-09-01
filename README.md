@@ -1,6 +1,6 @@
 ![Header](https://github.com/Coffeinchik21/coffeinchik21/blob/main/assets/MyName2.png)
 
-## I'm begginer front End Developer 
+## I'm begginer Front End Developer 
 
 ### Lenguages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
